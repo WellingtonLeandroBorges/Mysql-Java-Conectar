@@ -1,0 +1,12 @@
+Creamos  un Proyecto: New - > Project - > Java Project (siguiente)
+Nombre al proyecto  : (finish)
+click derecho al proyecto: Properties
+Seleccionamos: Java Build Path -> Libraries
+Seleccionamos: Add External JARSs...
+Click: Apply and Close
+=================================================================
+Dentro del directorio SRC:
+-Creación del Paquete (Package): 'com.basedatos.conex' -> (finish)
+-Creación de Dos clases : New -> Class: 'Main'
+-habilitamos cleck: public static void main(String[]args) -> (finish)
+-Creación de la otra clase : New -> Class: 'ConexioBD'
